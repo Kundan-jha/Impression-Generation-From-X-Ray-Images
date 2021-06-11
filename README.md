@@ -1,0 +1,2 @@
+# Impression-Generation-From-X-Ray-Images
+Impression generation is a process of generating textual description from X-Ray Images. In the world of Deep learning it is known as Image Captioning. Image captioning uses both Natural Language Processing(NLP) and Computer Vision(CV) to generate the text output. Analysis of X-ray reports is an important task of radiologists to recommend the correct diagnosis to the patients. But with deep learning techniques we can predict medical reports by using just medical images.
